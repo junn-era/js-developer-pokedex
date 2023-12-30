@@ -8,7 +8,7 @@
 * Veja mais [aqui](https://pt.wikipedia.org/wiki/Pok%C3%A9mon) sobre o universo Pokémon.
 
 ## Captura de tela
-<img src="/assets/img/teste.jpg">
+<img src="/assets/images/pokedex_list.png">
 
 ## Funcionalidades
 
