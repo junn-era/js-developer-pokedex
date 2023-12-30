@@ -25,7 +25,7 @@ O site consome os dados da API "Poki API" para exibir informações precisas e a
 * Navegue pela lista de Pokémon exibida na página inicial.
 * Clique em um Pokémon para visualizar seus detalhes.
 
-## Tecnologias Utilizadas
+## 🚀 Tecnologias Utilizadas
 
 * **HTML5 e CSS3** - para estrutura e estilo da página.
 * **JavaScript** -  para interações e consumo da API.
