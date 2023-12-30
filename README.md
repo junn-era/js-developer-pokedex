@@ -34,4 +34,7 @@ O site consome os dados da API "Poki API" para exibir informações precisas e a
 ## Redes Sociais
 [LinkedIn](//https://www.linkedin.com/in/francisco-de-oliveira-75353069/)
 [Instagram](//https://www.instagram.com/francisco.r.oliveira/)
+<<<<<<< HEAD
 
+=======
+>>>>>>> 0f32de9671ac611bf40d36a3e1bab2fbe819c7ce
